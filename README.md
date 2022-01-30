@@ -2,6 +2,7 @@
 
 Save selected text as highligh in [Hypothesis](https://web.hypothes.is/start/).
 
+
 ## Why?
 
 Hypothesis only offers Chrome Extension for now
