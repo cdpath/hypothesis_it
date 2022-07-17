@@ -1,3 +1,7 @@
+> Please use the PopClip Official Extension instead
+
+> https://github.com/pilotmoon/PopClip-Extensions/blob/master/extensions/Hypothesis.popclipextz
+
 # Hypothesis It
 
 Save selected text as highligh in [Hypothesis](https://web.hypothes.is/start/).
